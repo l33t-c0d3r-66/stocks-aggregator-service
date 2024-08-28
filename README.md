@@ -34,6 +34,6 @@ The Aggregator Service communicates with: <br>
 ```
 
 ## Demo
-You can find a video in demo folder.
+You can find a video in the demo folder.
 
 <img src="https://github.com/l33t-c0d3r-66/stocks-aggregator-service/blob/main/demo/Screenshot%202024-08-25%20at%2022.58.03.png"/>
